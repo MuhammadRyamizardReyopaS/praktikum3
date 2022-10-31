@@ -68,9 +68,9 @@ K = pi * d
 K = 3,14 * 14
 K = 43.96
 
-![ss1]foto/ss1.PNG
+![ss1](foto/ss1.PNG)
 
 ### flowchard
 
-![ss2]foto/ss2.PNG
+![ss2](foto/ss2.PNG)
 
