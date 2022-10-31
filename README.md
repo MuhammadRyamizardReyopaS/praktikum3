@@ -68,6 +68,8 @@ K = pi * d
 K = 3,14 * 14
 K = 43.96
 
+```
+
 ![ss1](foto/ss1.png)
 
 ### flowchard
