@@ -70,9 +70,9 @@ K = 43.96
 
 ```
 
-![ss1](foto/ss1.png)
+![ss1](foto/ss1.PNG)
 
 ### flowchard
 
-![ss2](foto/ss2.png)
+![ss2](foto/ss2.PNG)
 
